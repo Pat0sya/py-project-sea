@@ -13,3 +13,4 @@ if __name__ == "__main__":
     b = int(input())
     print("c =", get_hypotenuse(a,b))
     print("S =", get_area(a,b))
+#Тут все объективно понятно, зачем комы?
